@@ -1,0 +1,233 @@
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
+    "file_info": {
+		"authors": [
+			"Metric#0062"
+		],
+		"description": "Unofficial player blacklist by Metric#0062.",
+		"title": "Metric's Blacklist",
+		"update_url": ""
+	},
+	"players": [
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m\u200fush",
+				"time": 1609802278
+			},
+			"steamid": "[U:1:366175960]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "colonel",
+				"time": 1609577018
+			},
+			"steamid": "[U:1:1111499308]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VALVE]N\u00edggerkiller",
+				"time": 1609842245
+			},
+			"steamid": "[U:1:1111508181]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "helmut",
+				"time": 1609577020
+			},
+			"steamid": "[U:1:1111582253]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "beirut",
+				"time": 1609577018
+			},
+			"steamid": "[U:1:1111700920]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "denim",
+				"time": 1609577018
+			},
+			"steamid": "[U:1:1111738690]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "h\u200fuey",
+				"time": 1609802278
+			},
+			"steamid": "[U:1:1123625747]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "User \u200funknown",
+				"time": 1609802300
+			},
+			"steamid": "[U:1:1123754872]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "barnum",
+				"time": 1609577018
+			},
+			"steamid": "[U:1:1123814804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hue\u200fy",
+				"time": 1609802299
+			},
+			"steamid": "[U:1:1123871412]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mu\u200fsh",
+				"time": 1609802278
+			},
+			"steamid": "[U:1:1123881531]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)huey\u200f",
+				"time": 1609802300
+			},
+			"steamid": "[U:1:1124033160]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "OneTrick @LITHIUM",
+				"time": 1609842515
+			},
+			"steamid": "[U:1:1138703008]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/@d3fc0n6",
+				"time": 1609842511
+			},
+			"steamid": "[U:1:1143928898]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "twitch.tv/RazePilot",
+				"time": 1609573344
+			},
+			"steamid": "[U:1:1155245640]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)twitch.tv/RazePilot",
+				"time": 1609573342
+			},
+			"steamid": "[U:1:1157491025]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "twitch.tv/RazePilot",
+				"time": 1609573474
+			},
+			"steamid": "[U:1:1157629214]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cheemsburger gaming",
+				"time": 1609657317
+			},
+			"steamid": "[U:1:1158178118]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)cheemsburger gaming",
+				"time": 1609657320
+			},
+			"steamid": "[U:1:1158257098]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)cheemsburger gaming",
+				"time": 1609657315
+			},
+			"steamid": "[U:1:1158394922]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lyra.child",
+				"time": 1609801901
+			},
+			"steamid": "[U:1:1164761944]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lyra.child",
+				"time": 1609800863
+			},
+			"steamid": "[U:1:1164933641]"
+		}
+	]
+}
