@@ -1,6 +1,6 @@
 {
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
-    "file_info": {
+	"file_info": {
 		"authors": [
 			"Metric#0062"
 		],
@@ -349,7 +349,7 @@
 			},
 			"steamid": "[U:1:1164761944]"
 		},
-        {
+		{
 			"attributes": [
 				"suspicious"
 			],
