@@ -368,6 +368,26 @@
 				"time": 1609800863
 			},
 			"steamid": "[U:1:1164933641]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Met\u200fric",
+				"time": 1610230977
+			},
+			"steamid": "[U:1:63972737]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u9ed1\u9b3c\u6740\u624b",
+				"time": 1610231911
+			},
+			"steamid": "[U:1:1148453260]"
 		}
 	]
 }
