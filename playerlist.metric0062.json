@@ -388,6 +388,36 @@
 				"time": 1610231911
 			},
 			"steamid": "[U:1:1148453260]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\r\nnoderz",
+				"time": 1610402307
+			},
+			"steamid": "[U:1:872229470]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Successful6ftAlphaMale",
+				"time": 1610402247
+			},
+			"steamid": "[U:1:1082257042]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "the bread dealer",
+				"time": 1610402290
+			},
+			"steamid": "[U:1:1137124460]"
 		}
 	]
 }
