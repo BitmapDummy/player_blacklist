@@ -608,6 +608,15 @@
 				"time": 1610955136
 			},
 			"steamid": "[U:1:1167729515]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shoppy.gg/@Dezzacus"
+			},
+			"steamid": "[U:1:1079142666]"
 		}
 	]
 }
