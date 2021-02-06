@@ -1236,6 +1236,66 @@
 				"time": 1612504194
 			},
 			"steamid": "[U:1:1177547593]"
+		},
+				{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waff\u200fen-SS",
+				"time": 1612602191
+			},
+			"steamid": "[U:1:1175532573]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen\u200f-SS",
+				"time": 1612602189
+			},
+			"steamid": "[U:1:1175534732]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waf\u200ffen-SS",
+				"time": 1612602195
+			},
+			"steamid": "[U:1:1175625304]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Wa\u200fffen-SS",
+				"time": 1612602187
+			},
+			"steamid": "[U:1:1175866128]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffe\u200fn-SS",
+				"time": 1612602190
+			},
+			"steamid": "[U:1:1175928833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "apeybird",
+				"time": 1612602211
+			},
+			"steamid": "[U:1:1176295572]"
 		}
 	]
 }
