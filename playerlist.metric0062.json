@@ -1684,6 +1684,45 @@
 				"time": 1612607397
 			},
 			"steamid": "[U:1:1177656599]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Trick",
+				"time": 1612759887
+			},
+			"steamid": "[U:1:912377414]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "C:\\Users\\Spook",
+				"time": 1612760669
+			},
+			"steamid": "[U:1:969577134]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "sb",
+				"time": 1612760666
+			},
+			"steamid": "[U:1:1015304091]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1612759664
+			},
+			"steamid": "[U:1:1172096372]"
 		}
 	]
 }
