@@ -1723,6 +1723,53 @@
 				"time": 1612759664
 			},
 			"steamid": "[U:1:1172096372]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[discord.gg/WQVXKuySXS] DJSHARK",
+				"time": 1612939131
+			},
+			"steamid": "[U:1:1179156664]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1612942428
+			},
+			"steamid": "[U:1:1179170590]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1612942531
+			},
+			"steamid": "[U:1:1179280299]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)[discord.gg/WQVXKuySXS] DJSH",
+				"time": 1612939133
+			},
+			"steamid": "[U:1:1179639563]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1612942924
+			},
+			"steamid": "[U:1:1179757441]"
 		}
 	]
 }
