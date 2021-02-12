@@ -1770,6 +1770,96 @@
 				"time": 1612942924
 			},
 			"steamid": "[U:1:1179757441]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Spoook",
+				"time": 1613099126
+			},
+			"steamid": "[U:1:464248769]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fattercakes",
+				"time": 1613099037
+			},
+			"steamid": "[U:1:1136728146]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)fattercakes",
+				"time": 1613099041
+			},
+			"steamid": "[U:1:1137038420]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)fattercakes",
+				"time": 1613099039
+			},
+			"steamid": "[U:1:1165304374]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rae",
+				"time": 1613099097
+			},
+			"steamid": "[U:1:1165710999]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)fattercakes",
+				"time": 1613099034
+			},
+			"steamid": "[U:1:1169990804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen-SS",
+				"time": 1613098935
+			},
+			"steamid": "[U:1:1175674957]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waf\u200ffen-SS",
+				"time": 1613098931
+			},
+			"steamid": "[U:1:1175702581]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waff\u200fen-SS",
+				"time": 1613098933
+			},
+			"steamid": "[U:1:1176147070]"
 		}
 	]
 }
