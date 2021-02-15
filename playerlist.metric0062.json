@@ -1870,6 +1870,25 @@
 				"time": 1613113414
 			},
 			"steamid": "[U:1:1178139827]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Legion",
+				"time": 1613346189
+			},
+			"steamid": "[U:1:1179656333]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1613345694
+			},
+			"steamid": "[U:1:1181219268]"
 		}
 	]
 }
