@@ -1889,6 +1889,56 @@
 				"time": 1613345694
 			},
 			"steamid": "[U:1:1181219268]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BoLes",
+				"time": 1613465745
+			},
+			"steamid": "[U:1:321636654]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Grabbin' Me a Molitov",
+				"time": 1613465752
+			},
+			"steamid": "[U:1:1179412487]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "festive gramp",
+				"time": 1613465957
+			},
+			"steamid": "[U:1:1179595502]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MrHallex | tftrade.net",
+				"time": 1613465748
+			},
+			"steamid": "[U:1:1179908258]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "djazzyjack",
+				"time": 1613465928
+			},
+			"steamid": "[U:1:1181709454]"
 		}
 	]
 }
