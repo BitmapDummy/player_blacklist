@@ -2148,6 +2148,84 @@
 				"time": 1614147431
 			},
 			"steamid": "[U:1:1178759384]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "Festive Medic GF",
+				"time": 1614318836
+			},
+			"steamid": "[U:1:302795120]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "d0rky",
+				"time": 1614322320
+			},
+			"steamid": "[U:1:1030303837]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)engineer on his phone",
+				"time": 1614317985
+			},
+			"steamid": "[U:1:1154338997]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1614317882
+			},
+			"steamid": "[U:1:1155184298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Renamon Is Best Waifu",
+				"time": 1614317775
+			},
+			"steamid": "[U:1:1157541034]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "engineer on his phone",
+				"time": 1614317987
+			},
+			"steamid": "[U:1:1157771120]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NOT A N O N'S BOT",
+				"time": 1614321286
+			},
+			"steamid": "[U:1:1184832563]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1613954918
+			},
+			"steamid": "[U:1:1154397857]"
 		}
 	]
 }
