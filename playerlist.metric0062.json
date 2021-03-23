@@ -2594,6 +2594,26 @@
 				"time": 1616474614
 			},
 			"steamid": "[U:1:1192832955]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Among Us Pro",
+				"time": 1616475714
+			},
+			"steamid": "[U:1:72014026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(3)NOT A N O N'S BOT",
+				"time": 1616474880
+			},
+			"steamid": "[U:1:1192318071]"
 		}
 	]
 }
