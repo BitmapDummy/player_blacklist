@@ -2614,6 +2614,26 @@
 				"time": 1616474880
 			},
 			"steamid": "[U:1:1192318071]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-SS\u200f\u200f",
+				"time": 1616516943
+			},
+			"steamid": "[U:1:1192251500]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-S\u200f\u200fS",
+				"time": 1616516950
+			},
+			"steamid": "[U:1:1192892529]"
 		}
 	]
 }
