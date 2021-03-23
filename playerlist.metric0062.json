@@ -2634,6 +2634,76 @@
 				"time": 1616516950
 			},
 			"steamid": "[U:1:1192892529]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[VALVE] N\u2148ggerkiller",
+				"time": 1616517172
+			},
+			"steamid": "[U:1:1148381562]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faff\u200f\u200fen-SS",
+				"time": 1616517304
+			},
+			"steamid": "[U:1:1183011231]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waff\u200f\u200fen-SS",
+				"time": 1616517174
+			},
+			"steamid": "[U:1:1188814819]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-SS\u200f\u200f",
+				"time": 1616516943
+			},
+			"steamid": "[U:1:1192251500]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen-\u200fSS",
+				"time": 1616517170
+			},
+			"steamid": "[U:1:1192347508]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200f\u200faffe\u200f\u200f\u200fn-SS",
+				"time": 1616517240
+			},
+			"steamid": "[U:1:1192551629]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waffen-S\u200f\u200fS",
+				"time": 1616516950
+			},
+			"steamid": "[U:1:1192892529]"
 		}
 	]
 }
