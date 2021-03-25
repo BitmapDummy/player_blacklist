@@ -2704,6 +2704,34 @@
 				"time": 1616516950
 			},
 			"steamid": "[U:1:1192892529]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faff\u200fen-SS",
+				"time": 1616531428
+			},
+			"steamid": "[U:1:1178409894]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1616530271
+			},
+			"steamid": "[U:1:1193280676]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1616530277
+			},
+			"steamid": "[U:1:1193338479]"
 		}
 	]
 }
