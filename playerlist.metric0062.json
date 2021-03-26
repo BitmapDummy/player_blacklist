@@ -2733,6 +2733,28 @@
 				"time": 1616530277
 			},
 			"steamid": "[U:1:1193338479]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+
+				"player_name": "\u0424\u0443\u0442\u0434\u0436\u043e\u0431",
+				"time": 1616760159
+			},
+			"steamid": "[U:1:380927964]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "Waffen bot",
+				"player_name": "W\u200f\u200faffen-SS\u200f\u200f\u200f\u200f",
+				"time": 1616755956
+			},
+			"steamid": "[U:1:1192608628]"
 		}
 	]
 }
