@@ -2755,6 +2755,16 @@
 				"time": 1616755956
 			},
 			"steamid": "[U:1:1192608628]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"time": 1616931990
+			},
+			"steamid": "[U:1:1190776638]"
 		}
 	]
 }
