@@ -2765,6 +2765,17 @@
 				"time": 1616931990
 			},
 			"steamid": "[U:1:1190776638]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "next evolution in bot tf2",
+				"time": 1617007516
+			},
+			"steamid": "[U:1:1176917359]"
 		}
 	]
 }
