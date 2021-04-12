@@ -2776,6 +2776,149 @@
 				"time": 1617007516
 			},
 			"steamid": "[U:1:1176917359]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "\u00b0__\u00b0",
+				"time": 1617499804
+			},
+			"steamid": "[U:1:43079868]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "KhaoticKorpse",
+				"time": 1617501644
+			},
+			"steamid": "[U:1:90359874]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "www.titsassesandicks.com",
+				"time": 1618122447
+			},
+			"steamid": "[U:1:1072625984]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "www.titsassesandicks.com",
+				"time": 1618122557
+			},
+			"steamid": "[U:1:1072768005]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "www.titsassesandicks.com",
+				"time": 1618119302
+			},
+			"steamid": "[U:1:1074208374]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "(1)SniperMainsUnited Anime Legi",
+				"time": 1618119458
+			},
+			"steamid": "[U:1:1179932800]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "(1)SniperMainsUnited Anime Legi",
+				"time": 1618119552
+			},
+			"steamid": "[U:1:1180100022]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "(2)SniperMainsUnited Anime Legi",
+				"time": 1618119487
+			},
+			"steamid": "[U:1:1180186216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "OMEGATRONIC\u0e3a",
+				"time": 1618122174
+			},
+			"steamid": "[U:1:1184546002]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "OMEGAT\u0e38RONIC",
+				"time": 1618119483
+			},
+			"steamid": "[U:1:1188968541]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "[VALVE] N\u2148ggerkiller",
+				"time": 1618122170
+			},
+			"steamid": "[U:1:1199140175]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "SniperMainsUnited Anime Legion",
+				"time": 1618119456
+			},
+			"steamid": "[U:1:1199548579]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"description": "bot",
+				"player_name": "(3)SniperMainsUnited Anime Legi",
+				"time": 1618119547
+			},
+			"steamid": "[U:1:1200223021]"
 		}
 	]
 }
