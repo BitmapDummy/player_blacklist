@@ -4499,6 +4499,56 @@
 				"time": 1618732238
 			},
 			"steamid": "[U:1:1202453244]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FERNAN",
+				"time": 1619424669
+			},
+			"steamid": "[U:1:1152389832]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200f\u200faff\u200f\u200f\u200fen-SS",
+				"time": 1619423407
+			},
+			"steamid": "[U:1:1175472143]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Waf\u200ffen-SS",
+				"time": 1619423108
+			},
+			"steamid": "[U:1:1175625304]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200faffen\u200f-SS",
+				"time": 1619425135
+			},
+			"steamid": "[U:1:1182906055]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200f\u200faffen-SS\u200f\u200f\u200f",
+				"time": 1619424246
+			},
+			"steamid": "[U:1:1189066430]"
 		}
 	]
 }
