@@ -19659,6 +19659,86 @@
 				"time": 1651056116
 			},
 			"steamid": "[U:1:1313715851]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[g0tb0t]Church-of-myg0t",
+				"time": 1658275022
+			},
+			"steamid": "[U:1:1128670862]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[g0tb0t]Church-of-myg0t",
+				"time": 1658274646
+			},
+			"steamid": "[U:1:1197938833]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lo - Fi #FireFin",
+				"time": 1658103216
+			},
+			"steamid": "[U:1:1296599650]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Scout's Dad (Tom Jones)",
+				"time": 1658102715
+			},
+			"steamid": "[U:1:1296618867]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kacper",
+				"time": 1658102725
+			},
+			"steamid": "[U:1:1305811707]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "balazscs04",
+				"time": 1658102869
+			},
+			"steamid": "[U:1:1309830945]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Reomaken",
+				"time": 1657700111
+			},
+			"steamid": "[U:1:1313338316]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Taur \u2267\u25e1\u2266",
+				"time": 1657701131
+			},
+			"steamid": "[U:1:1313596735]"
 		}
 	]
 }
