@@ -6111,8 +6111,8 @@
 				"time": 1651056116
 			},
 			"steamid": "[U:1:1313715851]"
-		}
-{
+		},
+		{
 			"attributes": [
 				"racist"
 			],
@@ -11023,6 +11023,175 @@
 				"time": 1708212973
 			},
 			"steamid": "[U:1:1619363410]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Zerg #FreeLockheedMartin",
+				"time": 1708926455
+			},
+			"steamid": "[U:1:235011330]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "W\u200fh\u200fite Madness",
+				"time": 1708847581
+			},
+			"steamid": "[U:1:1215761145]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Whi\u200fte Madn\u200fess",
+				"time": 1708847399
+			},
+			"steamid": "[U:1:1215917354]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708847217
+			},
+			"steamid": "[U:1:1609211470]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708846057
+			},
+			"steamid": "[U:1:1609260637]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708847220
+			},
+			"steamid": "[U:1:1609381144]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708846059
+			},
+			"steamid": "[U:1:1610531135]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708846362
+			},
+			"steamid": "[U:1:1610642392]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708847154
+			},
+			"steamid": "[U:1:1610905816]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708847158
+			},
+			"steamid": "[U:1:1611445060]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708847162
+			},
+			"steamid": "[U:1:1613962122]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708847185
+			},
+			"steamid": "[U:1:1614346599]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708847156
+			},
+			"steamid": "[U:1:1614785602]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1708846054
+			},
+			"steamid": "[U:1:1614951817]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.\u0e4ag\u0e4ag/theplatypu\u0e4as",
+				"time": 1708583023
+			},
+			"steamid": "[U:1:1619363410]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4adsc.gg/theplatyp\u0e4au\u0e4as\u0e4a",
+				"time": 1708845761
+			},
+			"steamid": "[U:1:1627502150]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.\u0e4agg\u0e4a/\u0e4athepla\u0e4atypus",
+				"time": 1708584380
+			},
+			"steamid": "[U:1:1627639364]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/\u0e4atheplat\u0e4ayp\u0e4au\u0e4as",
+				"time": 1708584383
+			},
+			"steamid": "[U:1:1628196432]"
 		}
 	]
 }
