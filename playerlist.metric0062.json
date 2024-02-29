@@ -11192,6 +11192,224 @@
 				"time": 1708584383
 			},
 			"steamid": "[U:1:1628196432]"
+		},
+				{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Player",
+				"time": 1709164028
+			},
+			"steamid": "[U:1:42195963]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Saint",
+				"time": 1709163334
+			},
+			"steamid": "[U:1:87349601]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "egg replica",
+				"time": 1709163703
+			},
+			"steamid": "[U:1:1130399443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kivu",
+				"time": 1709161166
+			},
+			"steamid": "[U:1:1201950553]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AIOXY",
+				"time": 1709163337
+			},
+			"steamid": "[U:1:1241150221]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "New\u0e4cToTF2? call the superhero",
+				"time": 1709163893
+			},
+			"steamid": "[U:1:1255578706]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NewToTF2?\u0e4c call the superhero",
+				"time": 1709163897
+			},
+			"steamid": "[U:1:1255753310]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Velvet Fable",
+				"time": 1709165959
+			},
+			"steamid": "[U:1:1584688446]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Poppy Petalcharm",
+				"time": 1709164106
+			},
+			"steamid": "[U:1:1585052389]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Wild Specter",
+				"time": 1709163993
+			},
+			"steamid": "[U:1:1608730344]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/pinkiewashere1556",
+				"time": 1709165846
+			},
+			"steamid": "[U:1:1608783412]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sugarbell",
+				"time": 1709164012
+			},
+			"steamid": "[U:1:1608827536]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/pinkiewashere1556",
+				"time": 1709164244
+			},
+			"steamid": "[U:1:1609211470]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/pinkiewashere1556",
+				"time": 1709164321
+			},
+			"steamid": "[U:1:1609224506]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709160974
+			},
+			"steamid": "[U:1:1609277890]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "NewToTF2? call the sup\u0e4cerhero",
+				"time": 1709163890
+			},
+			"steamid": "[U:1:1610235132]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Misty Meadowsweet",
+				"time": 1709166165
+			},
+			"steamid": "[U:1:1610302805]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pink Butterfly",
+				"time": 1709165878
+			},
+			"steamid": "[U:1:1610427084]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709164033
+			},
+			"steamid": "[U:1:1610531135]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/pinkiewashere1556",
+				"time": 1709163968
+			},
+			"steamid": "[U:1:1610905816]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sunny Skydance",
+				"time": 1709164062
+			},
+			"steamid": "[U:1:1611106973]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mystic Olive",
+				"time": 1709164149
+			},
+			"steamid": "[U:1:1675298367]"
 		}
 	]
 }
