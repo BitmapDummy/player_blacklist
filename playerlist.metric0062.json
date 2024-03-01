@@ -11884,10 +11884,114 @@
 				"player_name": "starbrite413",
 				"time": 1709271424
 			},
-			"steamid": "[U:1:1671322175]"
+			"steamid": "[U:1:1671322175]",
 			"proof": [
 				"https://drive.proton.me/urls/P3E6T5ZTKC#0mcXSUyekqoI"
+			]
+		},
+		{
+			"attributes": [
+				"cheater"
 			],
+			"last_seen": {
+				"time": 1709280262
+			},
+			"steamid": "[U:1:1584437541]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709280265
+			},
+			"steamid": "[U:1:1614785602]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/perryslai\u0e4ar",
+				"time": 1709281166
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1635441047]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)OUTSIDER <dsc.gg/out-sider>",
+				"time": 1709280307
+			},
+			"steamid": "[U:1:1682506682]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709282542
+			},
+			"steamid": "[U:1:1682895387]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709282544
+			},
+			"steamid": "[U:1:1682997161]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709282540
+			},
+			"steamid": "[U:1:1683160321]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709282538
+			},
+			"steamid": "[U:1:1683416830]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709280267
+			},
+			"steamid": "[U:1:1683861614]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709280269
+			},
+			"steamid": "[U:1:1683959267]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709282546
+			},
+			"steamid": "[U:1:1684017891]"
 		}
 	]
 }
