@@ -11992,6 +11992,19 @@
 				"time": 1709282546
 			},
 			"steamid": "[U:1:1684017891]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/perrysl\u0e4aair",
+				"time": 1709367587
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1635307443]"
 		}
 	]
 }
