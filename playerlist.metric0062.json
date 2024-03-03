@@ -12005,6 +12005,16 @@
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
 			],
 			"steamid": "[U:1:1635307443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/pinkiewashere1556",
+				"time": 1709422078
+			},
+			"steamid": "[U:1:1584437541]"
 		}
 	]
 }
