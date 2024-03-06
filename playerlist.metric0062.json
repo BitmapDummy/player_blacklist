@@ -12057,6 +12057,29 @@
 				"time": 1709682923
 			},
 			"steamid": "[U:1:1686638744]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "d\u0e4as\u0e4ac.gg/\u0e4atheplatypu\u0e4as",
+				"time": 1709710838
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1626842199]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Skibidi Crackhead",
+				"time": 1709711148
+			},
+			"steamid": "[U:1:1681492984]"
 		}
 	]
 }
