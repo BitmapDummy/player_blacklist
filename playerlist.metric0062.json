@@ -12015,6 +12015,48 @@
 				"time": 1709422078
 			},
 			"steamid": "[U:1:1584437541]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ds\u0e4ac.gg\u0e4a/\u0e4atheplat\u0e4aypus",
+				"time": 1709613782
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1627757504]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1709682882
+			},
+			"steamid": "[U:1:1675298367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "soul",
+				"time": 1709683065
+			},
+			"steamid": "[U:1:1686245691]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cosmic Fellow",
+				"time": 1709682923
+			},
+			"steamid": "[U:1:1686638744]"
 		}
 	]
 }
