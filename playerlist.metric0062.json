@@ -12080,6 +12080,32 @@
 				"time": 1709711148
 			},
 			"steamid": "[U:1:1681492984]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "i scream #Team Heavy",
+				"time": 1709771077
+			},
+			"proof": [
+				"Banned by Little Anti Cheat on my Community Server"
+			],
+			"steamid": "[U:1:1036288285]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "John 'Lincoln' Xina",
+				"time": 1709771077
+			},
+			"proof": [
+				"Banned by Little Anti Cheat on my Community Server"
+			],
+			"steamid": "[U:1:154673544]"
 		}
 	]
 }
