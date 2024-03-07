@@ -12106,6 +12106,16 @@
 				"Banned by Little Anti Cheat on my Community Server"
 			],
 			"steamid": "[U:1:154673544]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "***************************",
+				"time": 1709777083
+			},
+			"steamid": "[U:1:1102241716]"
 		}
 	]
 }
