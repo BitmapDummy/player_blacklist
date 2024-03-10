@@ -12116,6 +12116,19 @@
 				"time": 1709777083
 			},
 			"steamid": "[U:1:1102241716]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/thepla\u0e4at\u0e4ay\u0e4apus\u0e4a",
+				"time": 1710024701
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1627676481]"
 		}
 	]
 }
