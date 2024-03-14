@@ -12129,6 +12129,93 @@
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
 			],
 			"steamid": "[U:1:1627676481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4a\u0e4adsc.gg/\u0e4atheplatypus",
+				"time": 1710226711
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1627744265]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e4ad\u0e4as\u0e4ac\u0e4a.gg/theplatypus",
+				"time": 1710227192
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1628301183]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "d\u0e4asc.\u0e4agg/theplat\u0e4a\u0e4aypus",
+				"time": 1710224252
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1628383824]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/perr\u0e4ayslair",
+				"time": 1710227149
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1635709687]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A\u0e3ar\u0e3aenateampl\u0e3aayer",
+				"time": 1710223844
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1677786058]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A\u0e3ar\u0e3aena\u0e3ateamplayer",
+				"time": 1710223844
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1678326996]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1710223807
+			},
+			"steamid": "[U:1:1678426849]"
 		}
 	]
 }
