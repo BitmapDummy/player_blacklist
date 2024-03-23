@@ -12216,6 +12216,32 @@
 				"time": 1710223807
 			},
 			"steamid": "[U:1:1678426849]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/thepla\u0e4at\u0e4ay\u0e4apus\u0e4a",
+				"time": 1710459586
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1627676481]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/perrysla\u0e4air",
+				"time": 1710459734
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1635371030]"
 		}
 	]
 }
