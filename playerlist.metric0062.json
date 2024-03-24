@@ -12242,6 +12242,61 @@
 				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
 			],
 			"steamid": "[U:1:1635371030]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "the grungler",
+				"time": 1711258282
+			},
+			"proof": [
+				"we talked about trying to get hackusated before this game
+			],
+			"steamid": "[U:1:1523345004]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/perrysl\u0e4aair",
+				"time": 1710482504
+			},
+			"proof": [
+				"[auto] automatically marked: Cheater | reason: bad characters (REALLY LAZY, VERIFY ALWAYS)"
+			],
+			"steamid": "[U:1:1635307443]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mystic Olive",
+				"time": 1710481636
+			},
+			"steamid": "[U:1:1675298367]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "discord.gg/ridgeinn",
+				"time": 1711259162
+			},
+			"steamid": "[U:1:1679723157]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1711259049
+			},
+			"steamid": "[U:1:1680564946]"
 		}
 	]
 }
