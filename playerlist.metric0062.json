@@ -12475,6 +12475,45 @@
 				"BOT"
 			],
 			"steamid": "[U:1:1696467583]"
+		},
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "HUMAN WEAPON",
+				"time": 1712288591
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:453528742]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mech\u0304inator",
+				"time": 1714109279
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1682218950]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mechinator",
+				"time": 1714109059
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1693092657]"
 		}
 	]
 }
