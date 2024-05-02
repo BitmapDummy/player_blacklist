@@ -12514,6 +12514,92 @@
 				"BOT"
 			],
 			"steamid": "[U:1:1693092657]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1714538316
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1682465216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1714538319
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1693112286]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mec\u1e25inator",
+				"time": 1714539408
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1695637758]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1714538314
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1696643703]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1714538322
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1700734589]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1714538324
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1704047217]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Delia Garcia",
+				"time": 1714539545
+			},
+			"proof": [
+				"BOT"
+			],
+			"steamid": "[U:1:1719353556]"
 		}
 	]
 }
